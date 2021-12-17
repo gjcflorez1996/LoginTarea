@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginTarea</string>
+    <string name="Btnsiguiente">Siguiente</string>
+    <string name="tv1">Usuario L</string>
+
+    <string name="BtnRegresar">Regresar</string>
+
+</resources>
